@@ -14,6 +14,7 @@ Email Resources
  <li><a href="https://en.gravatar.com/site/check/">Gravatar</a></li>
  <li><a href="https://haveibeenpwned.com/">Haveibeenpwned</a></li>
  <li><a href="https://haveibeensold.app/">Haveibeensold</a></li>
+ <li><a href="https://github.com/megadose/holehe">Holehe</a></li>
  <li><a href="https://hunter.io/">Hunter.io</a></li>
  <li><a href="https://leakcheck.io/">Leak Check</a></li>
  <li><a href="https://leak-lookup.com/">Leak Lookup</a></li>
