@@ -21,6 +21,7 @@ Email Resources
  <li><a href="https://data.occrp.org/">OCCRP Aleph</a></li>
  <li><a href="https://www.peekyou.com/">Peek You</a></li>
  <li><a href="https://github.com/jakecreps/poastal">Postal</a></li>
+ <li><a href="https://www.skymem.info/">Skymem</a></li>
  <li><a href="https://thatsthem.com/">That's Them</a></li>
  <li><a href="https://whoisology.com/email/">Whoisology</a></li>
  <li><a href="https://www.whoxy.com/">Whoxy</a></li>
