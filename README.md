@@ -19,6 +19,7 @@ Email Resources
  <li><a href="https://leakcheck.io/">Leak Check</a></li>
  <li><a href="https://leak-lookup.com/">Leak Lookup</a></li>
  <li><a href="https://data.occrp.org/">OCCRP Aleph</a></li>
+ <li><a href="https://www.peekyou.com/">Peek You</a></li>
  <li><a href="https://github.com/jakecreps/poastal">Postal</a></li>
  <li><a href="https://thatsthem.com/">That's Them</a></li>
  <li><a href="https://whoisology.com/email/">Whoisology</a></li>
@@ -32,6 +33,7 @@ Username Resources
  <li><a href="https://namechk.com/">Namechk</a></li>
  <li><a href="https://namecheckr.com/">Namecheckr</a></li>
  <li><a href="https://namemc.com/">NameMC</a></li>
+ <li><a href="https://www.peekyou.com/">Peek You</a></li>
  <li><a href="https://github.com/sherlock-project/sherlock">Sherlock</a></li>
  <li><a href="https://usersearch.org/">Usersearch</a></li>
  <li><a href="https://whatsmyname.app/">Whatsmyname</a></li>
