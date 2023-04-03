@@ -46,6 +46,7 @@ Examples of Manipulated URLs
 <ul>
  <li>archive.org/details/@USERNAME</li>
  <li>coder.social/USERNAME</li>
+ <li>hub.docker.com/u/USERNAME</li>
  <li>en.gravatar.com/USERNAME</li>
  <li>github.com/USERNAME</li>
  <li>gist.github.com/USERNAME</li>
