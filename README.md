@@ -1,5 +1,5 @@
 # Email-&-Username-OSINT
-<p>Email & Username OSINT have many crossovers due to the methodology of using the first part of an email as an username. It is fair to say that this is a lucrative business and some resources start of as free but then bring in a payment structure. Some of the below may need you to sign up for a free account. Don't forget Google advanced searching is another option, websites can be searched by simply manipulating the URL address to include the username in the domain.</p>
+Email & Username OSINT have many crossovers due to the methodology of using the first part of an email as an username. It is fair to say that this is a lucrative business and some resources start of as free but then bring in a payment structure. Some of the below may need you to sign up for a free account. Don't forget Google advanced searching is another option, websites can be searched by simply manipulating the URL structure to include the username in the domain.</p>
 Email Resources
 <br></br>
 <uL>
@@ -31,6 +31,7 @@ Username Resources
 <ul>
  <li><a href="https://checkuser.org/">Checkuser</a></li>
  <li><a href="https://knowem.com/">Knowem</a></li>   
+ <li><a href="https://github.com/soxoj/maigret/blob/main/README.md">Maigret</a></li>
  <li><a href="https://namechk.com/">Namechk</a></li>
  <li><a href="https://namecheckr.com/">Namecheckr</a></li>
  <li><a href="https://namemc.com/">NameMC</a></li>
@@ -41,6 +42,25 @@ Username Resources
 </ul>
 Examples of Manipulated URLs
 <br></br>
+<p>Bear in mind that from time to time websites may change their URL structure, in case some of the below do not work and I have not had time to update the below.</p>
 <ul>
+ <li>archive.org/details/@USERNAME</li>
+ <li>coder.social/USERNAME</li>
  <li>en.gravatar.com/USERNAME</li>
+ <li>github.com/USERNAME</li>
+ <li>gist.github.com/USERNAME</li>
+ <li>keybase.io/USERNAME</li>
+ <li>mastodon.social/@USERNAME</li>
+ <li>nitter.net/USERNAME</li>
+ <li>picuki.com/profile/USERNAME</li>
+ <li>reddit.com/user/USERNAME</li>
+ <li>roblox.com/user.aspx?username=USERNAME</li>
+ <li>paypal.com/paypalme/USERNAME</li>
+ <li>periscope.tv/USERNAME</li>
+ <li>slideshare.net/USERNAME</li>
+ <li>steamcommunity.com/id/USERNAME</li>
+ <li>t.me/USERNAME</li>
+ <li>twitch.tv/USERNAME</li>
+ <li>wigle.net/phpbb/search.php?author=USERNAME</li>
 </ul>
+
