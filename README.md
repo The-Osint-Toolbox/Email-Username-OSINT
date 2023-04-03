@@ -50,6 +50,8 @@ Examples of Manipulated URLs
  <li>en.gravatar.com/USERNAME</li>
  <li>github.com/USERNAME</li>
  <li>gist.github.com/USERNAME</li>
+ <li>hackerone.com/USERNAME</li>
+ <li>ifttt.com/p/USERNAME</li>
  <li>keybase.io/USERNAME</li>
  <li>mastodon.social/@USERNAME</li>
  <li>nitter.net/USERNAME</li>
