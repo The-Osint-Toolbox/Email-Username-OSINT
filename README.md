@@ -1,5 +1,5 @@
 # Email-&-Username-OSINT
-<p>Email & Username OSINT have many crossovers due to the methodology, of using the first part of an email as an username. It is fair to say that this is a  lucrative business and some resources start of as free but then bring in a payment structure. Some of the below may need you to sign up for a free account. Don't forget Google advanced searching is another option, social media sites can be searched by simply adding the username to the end of the domain.</p>
+<p>Email & Username OSINT have many crossovers due to the methodology of using the first part of an email as an username. It is fair to say that this is a lucrative business and some resources start of as free but then bring in a payment structure. Some of the below may need you to sign up for a free account. Don't forget Google advanced searching is another option, websites can be searched by simply manipulating the URL address to include the username in the domain.
 Email Resources
 <br></br>
 <uL>
@@ -38,4 +38,9 @@ Username Resources
  <li><a href="https://github.com/sherlock-project/sherlock">Sherlock</a></li>
  <li><a href="https://usersearch.org/">Usersearch</a></li>
  <li><a href="https://whatsmyname.app/">Whatsmyname</a></li>
+</ul>
+Examples of Manipulated URLs
+<br/>
+<ul>
+ <li>https://en.gravatar.com/USERNAME</li>
 </ul>
