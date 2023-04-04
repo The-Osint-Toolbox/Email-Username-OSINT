@@ -82,6 +82,7 @@ Examples of Manipulated URLs
  <li>twitter.com/USERNAME</li>
  <li>USERNAME.tumblr.com/</li>
  <li>twitch.tv/USERNAME</li>
+ <li>venmo.com/USERNAME</li>
  <li>wigle.net/phpbb/search.php?author=USERNAME</li>
 </ul>
 
