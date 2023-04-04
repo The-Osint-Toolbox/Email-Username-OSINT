@@ -61,6 +61,9 @@ Examples of Manipulated URLs
  <li>ifttt.com/p/USERNAME</li>
  <li>instagram.com/USERNAME</li>
  <li>keybase.io/USERNAME</li>
+ <li>ws2.kik.com/user/USERNAME</li>
+ <li>liberapay.com/USERNAME</li>
+ <li>linktr.ee/USERNAME</li>
  <li>mastodon.social/@USERNAME</li>
  <li>nitter.net/USERNAME</li>
  <li>picuki.com/profile/USERNAME</li>
