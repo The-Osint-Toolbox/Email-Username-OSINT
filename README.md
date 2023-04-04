@@ -66,6 +66,9 @@ Examples of Manipulated URLs
  <li>linktr.ee/USERNAME</li>
  <li>mastodon.social/@USERNAME</li>
  <li>nitter.net/USERNAME</li>
+ <li>pastebin.com/u/USERNAME</li>
+ <li>paypal.com/paypalme/USERNAME</li>
+ <li>periscope.tv/USERNAME/</li>
  <li>picuki.com/profile/USERNAME</li>
  <li>reddit.com/user/USERNAME</li>
  <li>roblox.com/user.aspx?username=USERNAME</li>
