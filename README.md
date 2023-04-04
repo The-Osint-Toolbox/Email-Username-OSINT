@@ -1,5 +1,5 @@
 # Email-&-Username-OSINT
-Email & Username OSINT have many crossovers due to the methodology of using the first part of an email as an username. It is fair to say that this is a lucrative business and some resources start of as free but then bring in a payment structure. Some of the below may need you to sign up for a free account. Don't forget Google advanced searching is another option, websites can be searched by simply manipulating the URL structure to include the username in the domain.</p>
+Email & Username OSINT have many crossovers due to the methodology of say, using the first part of an email as an username. It is fair to say that this is a lucrative business and some resources start of as free but then bring in a payment structure. Some of the below may need you to sign up for a free account. Don't forget Google advanced searching is another option, websites can be searched by simply manipulating the URL structure to include the username in the domain. Also don't forget to manipulate the username itself, replace O with a 0 for example.</p>
 Email Resources
 <br></br>
 <uL>
