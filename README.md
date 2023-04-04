@@ -72,8 +72,6 @@ Examples of Manipulated URLs
  <li>picuki.com/profile/USERNAME</li>
  <li>reddit.com/user/USERNAME</li>
  <li>roblox.com/user.aspx?username=USERNAME</li>
- <li>paypal.com/paypalme/USERNAME</li>
- <li>periscope.tv/USERNAME</li>
  <li>slideshare.net/USERNAME</li>
  <li>steamcommunity.com/id/USERNAME</li>
  <li>t.me/USERNAME</li>
