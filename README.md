@@ -55,6 +55,7 @@ Examples of Manipulated URLs
  <li>fortnitetracker.com/profile/all/USERNAME</li>
  <li>foursquare.com/USERNAME</li>
  <li>github.com/USERNAME</li>
+ <li>gitlab.com/USERNAME</li>
  <li>gist.github.com/USERNAME</li>
  <li>hackerone.com/USERNAME</li>
  <li>ifttt.com/p/USERNAME</li>
