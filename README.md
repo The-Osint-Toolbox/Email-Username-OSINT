@@ -77,6 +77,10 @@ Examples of Manipulated URLs
  <li>slideshare.net/USERNAME</li>
  <li>steamcommunity.com/id/USERNAME</li>
  <li>t.me/USERNAME</li>
+ <li>tiktok.com/@USERNAME</li>
+ <li>trello.com/sUSERNAME</li>
+ <li>twitter.com/USERNAME</li>
+ <li>USERNAME.tumblr.com/</li>
  <li>twitch.tv/USERNAME</li>
  <li>wigle.net/phpbb/search.php?author=USERNAME</li>
 </ul>
