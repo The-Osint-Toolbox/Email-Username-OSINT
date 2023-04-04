@@ -51,6 +51,9 @@ Examples of Manipulated URLs
  <li>hub.docker.com/u/USERNAME</li>
  <li>dumpoir.com/v/USERNAME</li>
  <li>en.gravatar.com/USERNAME</li>
+ <li>facebook.com/USERNAME</li>
+ <li>fortnitetracker.com/profile/all/USERNAME</li>
+ <li>foursquare.com/USERNAME</li>
  <li>github.com/USERNAME</li>
  <li>gist.github.com/USERNAME</li>
  <li>hackerone.com/USERNAME</li>
