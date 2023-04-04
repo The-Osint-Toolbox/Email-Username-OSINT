@@ -73,6 +73,7 @@ Examples of Manipulated URLs
  <li>reddit.com/user/USERNAME</li>
  <li>roblox.com/user.aspx?username=USERNAME</li>
  <li>skypli.com/profile/USERNAME</li>
+ <li>USERNAME.slack.com</li>
  <li>slideshare.net/USERNAME</li>
  <li>steamcommunity.com/id/USERNAME</li>
  <li>t.me/USERNAME</li>
