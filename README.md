@@ -45,6 +45,7 @@ Examples of Manipulated URLs
 <p>Bear in mind that from time to time websites may change their URL structure, in case some of the below do not work and I have not had time to update the below.</p>
 <ul>
  <li>archive.org/details/@USERNAME</li>
+ <li>buymeacoff.ee/USERNAME</li>
  <li>coder.social/USERNAME</li>
  <li>hub.docker.com/u/USERNAME</li>
  <li>en.gravatar.com/USERNAME</li>
