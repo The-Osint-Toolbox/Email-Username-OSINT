@@ -59,6 +59,7 @@ Examples of Manipulated URLs
  <li>gist.github.com/USERNAME</li>
  <li>hackerone.com/USERNAME</li>
  <li>ifttt.com/p/USERNAME</li>
+ <li>instagram.com/USERNAME</li>
  <li>keybase.io/USERNAME</li>
  <li>mastodon.social/@USERNAME</li>
  <li>nitter.net/USERNAME</li>
