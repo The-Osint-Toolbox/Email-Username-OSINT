@@ -1,7 +1,10 @@
 # Email-&-Username-OSINT
 Email & Username OSINT have many crossovers due to the methodology of say, using the first part of an email as an username. It is fair to say that this is a lucrative business and some resources start of as free but then bring in a payment structure. Some of the below may need you to sign up for a free account. Don't forget Google advanced searching is another option, websites can be searched by simply manipulating the URL structure to include the username in the domain. Also don't forget to manipulate the username itself, replace O with a 0 for example.</p>
-Email Resources
-<br></br>
+<table>
+    <tr>
+        <td>Email Resources</td>
+    </tr>
+</table>
 <uL>
  <li><a href="https://services.blackkitetech.com/data-breach">Black Kite</a></li>
  <li><a href="https://dehashed.com/">Dehashed</a></li> 
@@ -26,8 +29,11 @@ Email Resources
  <li><a href="https://whoisology.com/email/">Whoisology</a></li>
  <li><a href="https://www.whoxy.com/">Whoxy</a></li>
 </uL>
-Username Resources
-<br></br>
+<table>
+    <tr>
+        <td>Username Resources</td>
+    </tr>
+</table>
 <ul>
  <li><a href="https://checkuser.org/">Checkuser</a></li>
  <li><a href="https://knowem.com/">Knowem</a></li>   
@@ -41,10 +47,12 @@ Username Resources
  <li><a href="https://usersearch.org/">Usersearch</a></li>
  <li><a href="https://whatsmyname.app/">Whatsmyname</a></li>
 </ul>
-Examples of Manipulated URLs
-<br></br>
-<p>
-<p>Bear in mind that from time to time websites may change their URL structure, in case some of the below do not work and I have not had time to update the below.</p>
+<table>
+    <tr>
+        <td>Examples of Manipulated URLs</td>
+    </tr>
+</table>
+<p>Bear in mind that from time to time websites may change their URL structure, in case some of the below do not work and I have not had time to update the below. You can always DM me on Twitter if one is not working</p>
 <ul>
  <li>archive.org/details/@USERNAME</li>
  <li>buymeacoff.ee/USERNAME</li>
