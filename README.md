@@ -31,6 +31,7 @@ Username Resources
 <ul>
  <li><a href="https://checkuser.org/">Checkuser</a></li>
  <li><a href="https://knowem.com/">Knowem</a></li>   
+ <li><a href="https://inteltechniques.com/tools/Username.html">Inteltechniques</a></li>
  <li><a href="https://github.com/soxoj/maigret/blob/main/README.md">Maigret</a></li>
  <li><a href="https://namechk.com/">Namechk</a></li>
  <li><a href="https://namecheckr.com/">Namecheckr</a></li>
