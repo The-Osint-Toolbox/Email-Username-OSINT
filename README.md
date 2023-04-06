@@ -43,6 +43,7 @@ Username Resources
 </ul>
 Examples of Manipulated URLs
 <br></br>
+<p>
 <p>Bear in mind that from time to time websites may change their URL structure, in case some of the below do not work and I have not had time to update the below.</p>
 <ul>
  <li>archive.org/details/@USERNAME</li>
