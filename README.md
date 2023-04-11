@@ -45,6 +45,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://namemc.com/">NameMC</a></li>
  <li><a href="https://www.peekyou.com/">Peek You</a></li>
  <li><a href="https://github.com/sherlock-project/sherlock">Sherlock</a></li>
+ <li><a href="https://www.social-searcher.com/">Social Searcher</a></li>  
  <li><a href="https://usersearch.org/">Usersearch</a></li>
  <li><a href="https://whatsmyname.app/">Whatsmyname</a></li>
 </ul>
