@@ -26,6 +26,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://www.peekyou.com/">Peek You</a></li>
  <li><a href="https://github.com/jakecreps/poastal">Postal</a></li>
  <li><a href="https://www.skymem.info/">Skymem</a></li>
+ <li><a href="https://www.spytox.com/">Spytox</a></li>
  <li><a href="https://thatsthem.com/">That's Them</a></li>
  <li><a href="https://whoisology.com/email/">Whoisology</a></li>
  <li><a href="https://www.whoxy.com/">Whoxy</a></li>
@@ -85,6 +86,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li>reddit.com/user/USERNAME</li>
  <li>roblox.com/user.aspx?username=USERNAME</li>
  <li>skypli.com/profile/USERNAME</li>
+ <li>spytox.com/email-search/EMAIL HERE</li>
  <li>USERNAME.slack.com</li>
  <li>slideshare.net/USERNAME</li>
  <li>steamcommunity.com/id/USERNAME</li>
