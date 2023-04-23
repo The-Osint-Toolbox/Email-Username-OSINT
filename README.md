@@ -101,6 +101,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li>slideshare.net/USERNAME</li>
  <li>steamcommunity.com/id/USERNAME</li>
  <li>t.me/USERNAME</li>
+ <li>web.telegram.org/k/#@USERNAME</li>
  <li>tiktok.com/@USERNAME</li>
  <li>trello.com/sUSERNAME</li>
  <li>twitter.com/USERNAME</li>
