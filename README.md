@@ -34,7 +34,6 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://www.skymem.info/">Skymem</a></li>
  <li><a href="https://www.spytox.com/">Spytox</a></li>
  <li><a href="https://synapsint.com/">Synapsint</a></li> 
-   <p>Synapsint is a tool that allows you to collect information from different open sources on the Internet about a target such as a domain, an IP address, an email, a phone number and a Bitcoin wallet.</p> 
  <li><a href="https://thatsthem.com/">That's Them</a></li>
  <li><a href="https://whoisology.com/email/">Whoisology</a></li>
  <li><a href="https://www.whoxy.com/">Whoxy</a></li>
