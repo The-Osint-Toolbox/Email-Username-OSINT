@@ -12,6 +12,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
 </table>
 <uL>
  <li><a href="https://services.blackkitetech.com/data-breach">Black Kite</a></li>
+ <li><a href="https://cylect.io/">Cylect</a></li>
  <li><a href="https://dehashed.com/">Dehashed</a></li> 
  <li><a href="https://centralops.net/co/emaildossier.aspx">Email Dossier</a></li>
  <li><a href="https://emailrep.io/">Email Rep</a></li>
@@ -48,6 +49,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
 <ul>
  <li><a href="https://checkuser.org/">Checkuser</a></li>
  <li><a href="https://checkusernames.com/">Checkusernames</a></li>
+ <li><a href="https://cylect.io/">Cylect</a></li> 
  <li><a href="https://knowem.com/">Knowem</a></li>   
  <li><a href="https://inteltechniques.com/tools/Username.html">Inteltechniques</a></li>
  <li><a href="https://github.com/soxoj/maigret/blob/main/README.md">Maigret</a></li>
