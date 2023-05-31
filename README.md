@@ -112,6 +112,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li>tiktok.com/@USERNAME</li>
  <li>trello.com/sUSERNAME</li>
  <li>twitter.com/USERNAME</li>
+ <li>twitter.com/USERNAME/lists</li> 
  <li>USERNAME.tumblr.com/</li>
  <li>twitch.tv/USERNAME</li>
  <li>venmo.com/USERNAME</li>
