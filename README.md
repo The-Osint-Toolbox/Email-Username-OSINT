@@ -67,58 +67,5 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://usersearch.org/">Usersearch</a></li>
  <li><a href="https://whatsmyname.app/">Whatsmyname</a></li>
 </ul>
-<table>
-<br></br>
-    <tr>
-        <td>Examples of Manipulated URLs</td>
-    </tr>
-</table>
-<p>Bear in mind that from time to time websites may change their URL structure, in case some of the below do not work and I have not had time to update the below. You can always DM me on Twitter if one is not working</p>
-<ul>
- <li>archive.org/details/@USERNAME</li>
- <li>buymeacoff.ee/USERNAME</li>
- <li>coder.social/USERNAME</li>
- <li>cash.app/$USERNAME</li>
- <li>hub.docker.com/u/USERNAME</li>
- <li>dumpoir.com/v/USERNAME</li>
- <li>en.gravatar.com/USERNAME</li>
- <li>facebook.com/USERNAME</li>
- <li>fortnitetracker.com/profile/all/USERNAME</li>
- <li>foursquare.com/USERNAME</li>
- <li>github.com/USERNAME</li>
- <li>gitlab.com/USERNAME</li>
- <li>gist.github.com/USERNAME</li>
- <li>hackerone.com/USERNAME</li>
- <li>ifttt.com/p/USERNAME</li>
- <li>instagram.com/USERNAME</li>
- <li>keybase.io/USERNAME</li>
- <li>ws2.kik.com/user/USERNAME</li>
- <li>liberapay.com/USERNAME</li>
- <li>linktr.ee/USERNAME</li>
- <li>mastodon.social/@USERNAME</li>
- <li>nitter.net/USERNAME</li>
- <li>pastebin.com/u/USERNAME</li>
- <li>paypal.com/paypalme/USERNAME</li>
- <li>periscope.tv/USERNAME/</li>
- <li>picuki.com/profile/USERNAME</li>
- <li>reddit.com/user/USERNAME</li>
- <li>roblox.com/user.aspx?username=USERNAME</li>
- <li>skypli.com/profile/USERNAME</li>
- <li>spytox.com/email-search/EMAIL HERE</li>
- <li>USERNAME.slack.com</li>
- <li>slideshare.net/USERNAME</li>
- <li>steamcommunity.com/id/USERNAME</li>
- <li>t.me/USERNAME</li>
- <li>web.telegram.org/k/#@USERNAME</li>
- <li>tiktok.com/@USERNAME</li>
- <li>trello.com/sUSERNAME</li>
- <li>twitter.com/USERNAME</li>
- <li>twitter.com/USERNAME/lists</li> 
- <li>USERNAME.tumblr.com/</li>
- <li>twitch.tv/USERNAME</li>
- <li>venmo.com/USERNAME</li>
- <li>wigle.net/phpbb/search.php?author=USERNAME</li>
- <li>younow.com/USERNAME</li>
-</ul>
 <br></br>
 
