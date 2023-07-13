@@ -10,7 +10,9 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
         <td>Blogs</td>
     </tr>
 </table>
+<ul>
  <li><a href="https://kinsta.com/blog/find-email-address/">Kinsta</a></li>13 Ways to Find Someone’s Email Address. (2023)
+</ul>  
 <br></br>
 <table>
     <tr>
