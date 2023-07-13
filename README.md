@@ -7,6 +7,11 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
 <br></br>
 <table>
     <tr>
+        <td>Blogs</td>
+    </tr>
+</table>
+<table>
+    <tr>
         <td>Email Resources</td>
     </tr>
 </table>
