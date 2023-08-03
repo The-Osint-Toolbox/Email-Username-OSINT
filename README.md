@@ -25,6 +25,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://cylect.io/">Cylect</a></li>
  <li><a href="https://dehashed.com/">Dehashed</a></li> 
  <li><a href="https://github.com/piaolin/DetectDee">DetectDee</a></li>
+ <li><a href="https://digitalfootprintcheck.com/free-checker.html">Digital Footprint Check</a></li>
  <li><a href="https://centralops.net/co/emaildossier.aspx">Email Dossier</a></li>
  <li><a href="https://emailrep.io/">Email Rep</a></li>
  <li><a href="https://epieos.com/">Epios</a></li>  
