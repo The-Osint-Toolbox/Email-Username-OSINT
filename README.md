@@ -42,6 +42,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://inteltechniques.com/tools/Email.html">Intelltechniques</a></li>
  <li><a href="https://leakcheck.io/">Leak Check</a></li>
  <li><a href="https://leak-lookup.com/">Leak Lookup</a></li>
+ <li><a href="https://myth.rip/">Myth</a></li> 
  <li><a href="https://data.occrp.org/">OCCRP Aleph</a></li>
  <li><a href="https://omail.io/">Omail</a></li> 
  <li><a href="https://www.peekyou.com/">Peek You</a></li>
@@ -70,6 +71,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://knowem.com/">Knowem</a></li>   
  <li><a href="https://inteltechniques.com/tools/Username.html">Inteltechniques</a></li>
  <li><a href="https://github.com/soxoj/maigret/blob/main/README.md">Maigret</a></li>
+ <li><a href="https://myth.rip/">Myth</a></li>
  <li><a href="https://namechk.com/">Namechk</a></li>
  <li><a href="https://namecheckr.com/">Namecheckr</a></li>
  <li><a href="https://namemc.com/">NameMC</a></li>
