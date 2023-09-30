@@ -52,6 +52,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://github.com/jakecreps/poastal">Postal</a></li>
  <li><a href="https://osint.industries/">Osint Industries</a></li>
  <li><a href="https://search.0t.rocks/">Search 0t Rocks</a></li> 
+ <li><a href="https://seon.io/">Seon</a></li>
  <li><a href="https://www.skymem.info/">Skymem</a></li>
  <li><a href="https://www.spytox.com/">Spytox</a></li>
  <li><a href="https://synapsint.com/">Synapsint</a></li> 
