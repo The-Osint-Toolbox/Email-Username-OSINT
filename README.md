@@ -13,6 +13,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
 <ul>
  <li><a href="https://medium.com/@cyb_detective/when-you-need-search-by-nickname-in-public-ip-addresses-search-engines-shodan-netlas-fofa-etc-59d92af047cc">Cyb_Detective</a></li>When you to need search by nickname in public IP addresses search engines. (2023) 
  <li><a href="https://kinsta.com/blog/find-email-address/">Kinsta</a></li>13 Ways to Find Someone’s Email Address. (2023)
+ <li><a href="https://www.osintteam.com/learn-to-investigate-email-addresses/">Petro Cherkasets</a></li>An ultimate mailbox investigation guide. (2023)
 </ul>  
 <br></br>
 <table>
