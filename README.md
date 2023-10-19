@@ -32,6 +32,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://centralops.net/co/emaildossier.aspx">Email Dossier</a></li>
  <li><a href="https://emailrep.io/">Email Rep</a></li>
  <li><a href="https://epieos.com/">Epios</a></li>  
+ <li><a href="https://espysys.com/osint-tools-and-api/">Epsy</a></li>
  <li><a href="https://www.experte.com/email-finder">Experte</a></li>
  <li><a href="https://github.com/N0rz3/Eyes">Eyes</a></li>
  <li><a href="https://f-secure.com/us-en/identity-theft-checker">F-Secure</a></li>
