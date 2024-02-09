@@ -14,6 +14,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://www.cqcore.uk/happy-new-year-happy-osint-hunting/">Cqcore</a></li>Build your own eamil, username,telephone investigation capbility. (2024)
  <li><a href="https://medium.com/@cyb_detective/when-you-need-search-by-nickname-in-public-ip-addresses-search-engines-shodan-netlas-fofa-etc-59d92af047cc">Cyb_Detective</a></li>When you to need search by nickname in public IP addresses search engines. (2023)
  <li><a href="https://kinsta.com/blog/find-email-address/">Kinsta</a></li>13 Ways to Find Someone’s Email Address. (2023)
+ <li><a href="https://www.authentic8.com/blog/osint-techniques-email-investigations?utm_source=linkedin&utm_medium=social>">Nihad Hassan</a></li>Leveraging OSINT techniques for email investigations. (2024)
  <li><a href="https://www.osintteam.com/learn-to-investigate-email-addresses/">Petro Cherkasets</a></li>An ultimate mailbox investigation guide. (2023)
  <li><a href="https://medium.com/@ronak.d.sharma111/osint-research-using-username-e-mail-phone-number-and-many-more-a99c4f5a958d">Ronak Sharma</a></li>OSINT Research Using Spiderfoot. (2023)
 </ul>  
@@ -32,6 +33,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://github.com/piaolin/DetectDee">DetectDee</a></li>
  <li><a href="https://digitalfootprintcheck.com/free-checker.html">Digital Footprint Check</a></li>
  <li><a href="https://centralops.net/co/emaildossier.aspx">Email Dossier</a></li>
+ <li><a href="https://tools.emailhippo.com/">Email Hippo</a></li>
  <li><a href="https://emailrep.io/">Email Rep</a></li>
  <li><a href="https://epieos.com/">Epios</a></li>  
  <li><a href="https://espysys.com/osint-tools-and-api/">Epsy</a></li>
