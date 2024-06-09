@@ -60,8 +60,9 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://www.peekyou.com/">Peek You</a></li>
  <li><a href="https://pi-recon.streamlit.app/">Pi-Recon</a></li>
  <li><a href="https://github.com/jakecreps/poastal">Postal</a></li>
- <li><a href="https://search.0t.rocks/">Search 0t Rocks</a></li> 
+ <li><a href="https://search.0t.rocks/">Search 0t Rocks</a>&nbsp;&nbsp;Currently Down</li> 
  <li><a href="https://seon.io/">Seon</a></li>
+ <li><a href="https://sherlockeye.io/">Sherlockeye</a></li>
  <li><a href="https://www.skymem.info/">Skymem</a></li>
  <li><a href="https://www.spytox.com/">Spytox</a></li>
  <li><a href="https://synapsint.com/">Synapsint</a></li> 
@@ -96,8 +97,9 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://namevine.com/">Namevine</a></li>
  <li><a href="https://www.peekyou.com/">Peek You</a></li>
  <li><a href="https://pi-recon.streamlit.app/">Pi-Recon</a></li>
- <li><a href="https://search.0t.rocks/">Search 0t Rocks</a></li>  
+ <li><a href="https://search.0t.rocks/">Search 0t Rocks</a>&nbsp;&nbsp;Currently Down</li>  
  <li><a href="https://github.com/sherlock-project/sherlock">Sherlock</a></li>
+ <li><a href="https://sherlockeye.io/">Sherlockeye</a></li>
  <li><a href="https://www.social-searcher.com/">Social Searcher</a></li>  
  <li><a href="https://usersearch.org/">Usersearch</a></li>
  <li><a href="https://www.user-searcher.com/">User Searcher</a></li>
