@@ -13,6 +13,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
 <uL>
  <li><a href="https://anymailfinder.com/">Any Mail Finder</a></li>
  <li><a href="https://services.blackkitetech.com/data-breach">Black Kite</a></li>
+ <li><a href="https://github.com/p1ngul1n0/blackbird">Blackbird</a></li>
  <li><a href="https://castrickclues.com/">Castrick</a></li>
  <li><a href="https://cylect.io/">Cylect</a></li>
  <li><a href="https://dehashed.com/">Dehashed</a></li> 
@@ -64,7 +65,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
     </tr>
 </table>
 <ul>
- <li><a href="https://unavatar.io/#/">UnAvatar</a></li>
+ <li><a href="https://github.com/p1ngul1n0/blackbird">Blackbird</a></li>
  <li><a href="https://castrickclues.com/">Castrick</a></li>
  <li><a href="https://checkuser.org/">Checkuser</a></li>
  <li><a href="https://checkusernames.com/">Checkusernames</a></li>
@@ -86,7 +87,8 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://search.0t.rocks/">Search 0t Rocks</a>&nbsp;&nbsp;Currently Down</li>  
  <li><a href="https://github.com/sherlock-project/sherlock">Sherlock</a></li>
  <li><a href="https://sherlockeye.io/">Sherlockeye</a></li>
- <li><a href="https://www.social-searcher.com/">Social Searcher</a></li>  
+ <li><a href="https://www.social-searcher.com/">Social Searcher</a></li>
+ <li><a href="https://unavatar.io/#/">UnAvatar</a></li>
  <li><a href="https://usersearch.org/">Usersearch</a></li>
  <li><a href="https://www.user-searcher.com/">User Searcher</a></li>
  <li><a href="https://whatsmyname.app/">Whatsmyname</a></li>
