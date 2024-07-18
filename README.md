@@ -93,8 +93,8 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://unavatar.io/#/">UnAvatar</a></li>
  <li><a href="https://usersearch.org/">Usersearch</a></li>
  <li><a href="https://www.user-searcher.com/">User Searcher</a></li>
- <li><a href="https://whatsmyname.app/">Whatsmyname</a></li>
- <li><a href="https://github.com/C3n7ral051nt4g3ncy/WhatsMyName-Python">Whatsmyname Python</a></li>
+ <li><a href="https://whatsmyname.app/">WhatsMyName</a></li>
+ <li><a href="https://github.com/C3n7ral051nt4g3ncy/WhatsMyName-Python">WhatsMyName Python</a></li>
 </ul>
 <br></br>
 
