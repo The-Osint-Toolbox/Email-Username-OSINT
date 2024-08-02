@@ -45,6 +45,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://data.occrp.org/">OCCRP Aleph</a></li>
  <li><a href="https://omail.io/">Omail</a></li>
  <li><a href="https://osint.industries/">Osint Industries</a></li>
+ <li><a href="https://platform.osintquest.pl/">OSINT Quest</a></li>
  <li><a href="https://www.peekyou.com/">Peek You</a></li>
  <li><a href="https://pi-recon.streamlit.app/">Pi-Recon</a></li>
  <li><a href="https://github.com/jakecreps/poastal">Postal</a></li>
@@ -84,6 +85,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://seintpl.github.io/NAMINT/">Nameit</a></li> 
  <li><a href="https://namemc.com/">NameMC</a></li>
  <li><a href="https://namevine.com/">Namevine</a></li>
+ <li><a href="https://platform.osintquest.pl/">OSINT Quest</a></li>
  <li><a href="https://www.peekyou.com/">Peek You</a></li>
  <li><a href="https://pi-recon.streamlit.app/">Pi-Recon</a></li>
  <li><a href="https://search.0t.rocks/">Search 0t Rocks</a>&nbsp;&nbsp;Currently Down</li>  
