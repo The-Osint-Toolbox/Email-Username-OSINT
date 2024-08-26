@@ -59,6 +59,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://thatsthem.com/">That's Them</a></li>
  <li><a href="https://whoisology.com/email/">Whoisology</a></li>
  <li><a href="https://www.whoxy.com/">Whoxy</a></li>
+ <li><a href="https://github.com/TermuxHackz/X-osint">X-OSINT</a></li>
  <lI><a href="https://github.com/N0rz3/Zehef">Zehef</a></lI>
 </uL>
 <br></br>
@@ -93,6 +94,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://github.com/sherlock-project/sherlock">Sherlock</a></li>
  <li><a href="https://sherlockeye.io/">Sherlockeye</a></li>
  <li><a href="https://www.social-searcher.com/">Social Searcher</a></li>
+ <li><a href="https://github.com/Alfredredbird/tookie-osint">Tookie-OSINT</a></li>
  <li><a href="https://unavatar.io/#/">UnAvatar</a></li>
  <li><a href="https://usersearch.org/">Usersearch</a></li>
  <li><a href="https://www.user-searcher.com/">User Searcher</a></li>
