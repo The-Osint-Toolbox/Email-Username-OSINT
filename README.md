@@ -12,6 +12,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
 </table>
 <uL>
  <li><a href="https://anymailfinder.com/">Any Mail Finder</a></li>
+ <li><a href="https://avatarapi.com/">Avatar Search</a></li>
  <li><a href="https://services.blackkitetech.com/data-breach">Black Kite</a></li>
  <li><a href="https://github.com/p1ngul1n0/blackbird">Blackbird</a></li>
  <li><a href="https://castrickclues.com/">Castrick</a></li>
