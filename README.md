@@ -77,6 +77,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://castrickclues.com/">Castrick</a></li>
  <li><a href="https://checkuser.org/">Checkuser</a></li>
  <li><a href="https://checkusernames.com/">Checkusernames</a></li>
+ <li><a href="https://github.com/OSINTI4L/cupidcr4wl">CupidCr4wl</a></li>
  <li><a href="https://cylect.io/">Cylect</a></li> 
  <li><a href="https://github.com/piaolin/DetectDee">DetectDee</a></li>
  <li><a href="https://github.com/tingirifistik/Watson">Dr Watson</a></li>
