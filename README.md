@@ -35,6 +35,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://haveibeenpwned.com/">Haveibeenpwned</a></li>
  <li><a href="https://www.hudsonrock.com/threat-intelligence-cybercrime-tools">Hudson Rock Cybercrime Intelligence Tools</a></li>
  <li><a href="https://haveibeensold.app/">Haveibeensold</a></li>
+ <li><a href="https://github.com/RetrO-M/Hawker">Hawker</a></li>
  <li><a href="https://github.com/megadose/holehe">Holehe</a></li>
  <li><a href="https://hunter.io/">Hunter.io</a></li>
  <li><a href="https://indicatorsearch.app/">Indicator Search</a></li> 
