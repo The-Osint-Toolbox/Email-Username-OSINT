@@ -54,7 +54,6 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://github.com/jakecreps/poastal">Postal</a></li>
  <li><a href="https://www.predictasearch.com/">Predicta Search</a></li>
  <li><a href="https://scamsearch.io/">ScamSearch</a></li>
- <li><a href="https://search.0t.rocks/">Search 0t Rocks</a>&nbsp;&nbsp;Currently Down</li> 
  <li><a href="https://seon.io/">Seon</a></li>
  <li><a href="https://sherlockeye.io/">Sherlockeye</a></li>
  <li><a href="https://www.skymem.info/">Skymem</a></li>
