@@ -57,6 +57,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://seon.io/">Seon</a></li>
  <li><a href="https://sherlockeye.io/">Sherlockeye</a></li>
  <li><a href="https://www.skymem.info/">Skymem</a></li>
+ <li><a href="https://snov.io/email-finder">Snov</a></li>
  <li><a href="https://www.spytox.com/">Spytox</a></li>
  <li><a href="https://synapsint.com/">Synapsint</a></li> 
  <li><a href="https://thatsthem.com/">That's Them</a></li>
