@@ -95,7 +95,6 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://osint.rocks/">OSINT-Rocks</a></li>
  <li><a href="https://www.peekyou.com/">Peek You</a></li>
  <li><a href="https://pi-recon.streamlit.app/">Pi-Recon</a></li>
- <li><a href="https://search.0t.rocks/">Search 0t Rocks</a>&nbsp;&nbsp;Currently Down</li>  
  <li><a href="https://github.com/sherlock-project/sherlock">Sherlock</a></li>
  <li><a href="https://sherlockeye.io/">Sherlockeye</a></li>
  <li><a href="https://www.social-searcher.com/">Social Searcher</a></li>
