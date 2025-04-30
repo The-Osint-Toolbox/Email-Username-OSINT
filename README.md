@@ -42,6 +42,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://leakcheck.io/">Leak Check</a></li>
  <li><a href="https://leak-lookup.com/">Leak Lookup</a></li>
  <li><a href="https://osint.lolarchiver.com/database_lookup">Lol Archiver</a></li>
+ <li><a href="https://minervaosint.com/">Minerva OSINT</a></li>
  <li><a href="https://myth.rip/">Myth</a></li>
  <li><a href="https://data.occrp.org/">OCCRP Aleph</a></li>
  <li><a href="https://omail.io/">Omail</a></li>
