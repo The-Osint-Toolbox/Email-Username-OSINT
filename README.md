@@ -38,6 +38,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://github.com/RetrO-M/Hawker">Hawker</a></li>
  <li><a href="https://github.com/megadose/holehe">Holehe</a></li>
  <li><a href="https://hunter.io/">Hunter.io</a></li>
+ <li><a href="intelbase.is">IntelBase</a></li>
  <li><a href="https://inteltechniques.com/tools/Email.html">Intelltechniques</a></li>
  <li><a href="https://leakcheck.io/">Leak Check</a></li>
  <li><a href="https://leak-lookup.com/">Leak Lookup</a></li>
