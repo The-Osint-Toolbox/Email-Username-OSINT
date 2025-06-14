@@ -65,6 +65,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://www.spytox.com/">Spytox</a></li>
  <li><a href="https://synapsint.com/">Synapsint</a></li> 
  <li><a href="https://thatsthem.com/">That's Them</a></li>
+ <li><a href="https://tracefind.info/">TraceFind</a></li>
  <li><a href="https://www.vedbex.com/tools/email2skype">Vedbex</a></li>
  <li><a href="https://whoisology.com/email/">Whoisology</a></li>
  <li><a href="https://www.whoxy.com/">Whoxy</a></li>
