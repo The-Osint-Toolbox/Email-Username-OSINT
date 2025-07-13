@@ -90,8 +90,8 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://ghintel.secrets.ninja/">Ghintel</a></li>
  <li><a href="https://github.com/C3n7ral051nt4g3ncy/HandleHawk">HandleHawk</a></li>
  <li><a href="https://www.idcrawl.com/username-search">iDCrawl</a></li>
- <li><a href="https://knowem.com/">Knowem</a></li>   
  <li><a href="https://inteltechniques.com/tools/Username.html">Inteltechniques</a></li>
+ <li><a href="https://knowem.com/">Knowem</a></li>   
  <li><a href="https://lolarchiver.com/">Legaue of Legends Archiver</a></li>
  <li><a href="https://github.com/JackJuly/linkook">Linkook</a></li>
  <li><a href="https://github.com/soxoj/maigret/blob/main/README.md">Maigret</a></li>
