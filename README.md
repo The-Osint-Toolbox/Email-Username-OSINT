@@ -86,9 +86,10 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://github.com/OSINTI4L/cupidcr4wl">CupidCr4wl</a></li>
  <li><a href="https://cylect.io/">Cylect</a></li> 
  <li><a href="https://github.com/piaolin/DetectDee">DetectDee</a></li>
- <li><a href="https://github.com/C3n7ral051nt4g3ncy/HandleHawk">HandleHawk</a></li>
  <li><a href="https://github.com/tingirifistik/Watson">Dr Watson</a></li>
  <li><a href="https://ghintel.secrets.ninja/">Ghintel</a></li>
+ <li><a href="https://github.com/C3n7ral051nt4g3ncy/HandleHawk">HandleHawk</a></li>
+ <li><a href="https://www.idcrawl.com/username-search">iDCrawl</a></li>
  <li><a href="https://knowem.com/">Knowem</a></li>   
  <li><a href="https://inteltechniques.com/tools/Username.html">Inteltechniques</a></li>
  <li><a href="https://lolarchiver.com/">Legaue of Legends Archiver</a></li>
