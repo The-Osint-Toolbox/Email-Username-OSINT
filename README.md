@@ -88,6 +88,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://cylect.io/">Cylect</a></li> 
  <li><a href="https://github.com/piaolin/DetectDee">DetectDee</a></li>
  <li><a href="https://github.com/tingirifistik/Watson">Dr Watson</a></li>
+ <li><a href="https://apps.apple.com/gb/app/phantom-finder-username-search/id6736408372">Phantom Finder (iOS)</a></li>
  <li><a href="https://ghintel.secrets.ninja/">Ghintel</a></li>
  <li><a href="https://github.com/C3n7ral051nt4g3ncy/HandleHawk">HandleHawk</a></li>
  <li><a href="https://www.idcrawl.com/username-search">iDCrawl</a></li>
