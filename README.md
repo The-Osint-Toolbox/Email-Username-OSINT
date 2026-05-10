@@ -49,6 +49,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://omail.io/">Omail</a></li>
  <li><a href="https://keys.openpgp.org/">Open PGP</a></li>
  <li><a href="https://osint.ly/">Osinty</a></li>
+ <li><a href="https://www.osintcat.net/">OsintCat</a></li>
  <li><a href="https://osint.industries/">Osint Industries</a></li>
  <li><a href="https://platform.osintquest.pl/">OSINT Quest</a></li>
  <li><a href="https://osint.rocks/">OSINT-Rocks</a></li>
