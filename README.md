@@ -97,6 +97,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://knowem.com/">Knowem</a></li>   
  <li><a href="https://lolarchiver.com/">Legaue of Legends Archiver</a></li>
  <li><a href="https://github.com/JackJuly/linkook">Linkook</a></li>
+ <li><a href="https://com.lullar.com/">Lullar</a></li>
  <li><a href="https://github.com/soxoj/maigret/blob/main/README.md">Maigret</a></li>
  <li><a href="https://myth.rip/">Myth</a></li>
  <li><a href="https://namechk.com/">Namechk</a></li>
