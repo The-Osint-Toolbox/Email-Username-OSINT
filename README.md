@@ -49,6 +49,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://data.occrp.org/">OCCRP Aleph</a></li>
  <li><a href="https://omail.io/">Omail</a></li>
  <li><a href="https://keys.openpgp.org/">Open PGP</a></li>
+ <li><a href="https://useopsis.com/">Opsis</a></li>
  <li><a href="https://osint.ly/">Osinty</a></li>
  <li><a href="https://www.osintcat.net/">OsintCat</a></li>
  <li><a href="https://osint.industries/">Osint Industries</a></li>
@@ -106,6 +107,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://namemc.com/">NameMC</a></li>
  <li><a href="https://namevine.com/">Namevine</a></li>
  <li><a href="https://github.com/thewhiteh4t/nexfil">Nexfil</a></li>
+ <li><a href="https://useopsis.com/">Opsis</a></li>
  <li><a href="https://platform.osintquest.pl/">OSINT Quest</a></li>
  <li><a href="https://osint.rocks/">OSINT-Rocks</a></li>
  <li><a href="https://www.peekyou.com/">Peek You</a></li>
