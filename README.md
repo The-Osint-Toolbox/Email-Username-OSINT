@@ -15,7 +15,6 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://avatarapi.com/">Avatar Search</a></li>
  <li><a href="https://services.blackkitetech.com/data-breach">Black Kite</a></li>
  <li><a href="https://github.com/p1ngul1n0/blackbird">Blackbird</a></li>
- <li><a href="https://breach.house/">Breach House</a></li>
  <li><a href="https://castrickclues.com/">Castrick</a></li>
  <li><a href="https://cylect.io/">Cylect</a></li>
  <li><a href="https://dehashed.com/">Dehashed</a></li> 
