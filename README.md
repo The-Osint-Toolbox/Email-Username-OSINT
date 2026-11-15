@@ -119,6 +119,7 @@ Email & Username OSINT have many crossovers due to the methodology of say, using
  <li><a href="https://sherlockeye.io/">Sherlockeye</a></li>
  <li><a href="https://www.social-searcher.com/">Social Searcher</a></li>
  <li><a href="https://github.com/Alfredredbird/tookie-osint">Tookie-OSINT</a></li>
+ <li><a href="https://tracefind.info/">TraceFind</a></li>
  <li><a href="https://unavatar.io/#/">UnAvatar</a></li>
  <li><a href="https://usersearch.org/">Usersearch</a></li>
  <li><a href="https://www.user-searcher.com/">User Searcher</a></li>
